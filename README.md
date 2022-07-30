@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am _**Ashwini Singh**_. Inquisitive by nature and always up for updating my knowledge.
-
+[![(https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo)]](https://www.linkedin.com/in/ashwini-kumar-singh-304162244)
 - 🔭 I’m currently working on Data Science project using Python.
 - 🌱 I’m currently learning basics of Cloud computing and cloud Security.
 - 👯 I’m looking to collaborate on Python projects.
