@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am _**Ashwini Singh**_. Inquisitive by nature and always up for updating my knowledge.
+
+- 🔭 I’m currently working on Data Science project using Python.
+- 🌱 I’m currently learning basics of Cloud computing and cloud Security.
+- 👯 I’m looking to collaborate on Python projects.
