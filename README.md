@@ -8,10 +8,10 @@
 
 ### Hi there 👋
 
-I am _**Ashwini Kumar Singh**_. Inquisitive by nature and always up for updating my knowledge.
+I am _**Ashwini Kumar Singh**_. Inquisitive by nature and always up for updating my knowledge. My intrests lies in Systen Administration, Cybersecurity and Ethical Hacking.
 
-- 🔭 I’m currently working on Data Science project using Python.
-- 🌱 I’m currently learning basics of Cloud computing and cloud Security.
+- 🔭 I’m currently working on LINUX Essentials.
+- 🌱 I’m currently learning about Cybersecurity Operations.
 - 👯 I’m looking to collaborate on Python projects.
 
 <!--
