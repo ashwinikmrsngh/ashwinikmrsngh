@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I am _**Ashwini Kumar Singh**_. Inquisitive by nature and always up for updating my knowledge. My intrests lies in Systen Administration, Cybersecurity and Ethical Hacking.
+I am _**Ashwini Kumar Singh**_. Inquisitive by nature and always up for updating my knowledge. My intrests lies in System Administration, Cybersecurity and Ethical Hacking.
 
 - 🔭 I’m currently working on LINUX Essentials.
 - 🌱 I’m currently learning about Cybersecurity Operations.
